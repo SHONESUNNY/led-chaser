@@ -1,6 +1,6 @@
 This project demonstrates an LED follower circuit that uses a combination of a 555 Timer IC and a 74HC4017 Decade Counter IC. The circuit is designed to sequentially light up LEDs (SFH 4550) in response to an input trigger.
 
-Below is a list of the primary components used in the circuit:
+# Below is a list of the primary components used in the circuit:
 
 555 Timer IC (NE555P): Used in astable mode to generate clock pulses.
 
@@ -16,7 +16,9 @@ Switches and Connectors: For input control and power connections.
 
 Power Source: Provides the required voltage (5V DC)
 
-SCHEMATIC :![image](https://github.com/user-attachments/assets/00b2c136-a8fe-4f95-b93b-8264bfc7acc4)
+# SCHEMATIC :
+![image](https://github.com/user-attachments/assets/00b2c136-a8fe-4f95-b93b-8264bfc7acc4)
 
-
+# PCB 
+![image](https://github.com/user-attachments/assets/1e4258aa-f20f-4140-8806-3c86daa69329)
 
